@@ -69,7 +69,6 @@ h1 {
 
 fieldset {
 	border: none;
-	padding: 0;
 }
 
 legend {
@@ -135,7 +134,6 @@ textarea::placeholder {
 
 input:focus {
 	outline: none;
-	border: 2px solid #849bb2;
 	background: #4ebbb5;
 	opacity: .7;
 }
